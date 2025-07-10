@@ -74,7 +74,7 @@ This command will build and run the app on your connected device or emulator.
 
 ## Download
 
-You can download the latest release APK [here](build/app/outputs/flutter-apk/app-release.apk).
+You can download the latest release APK [here](https://github.com/Roshan07R/Budget-Tracker/blob/main/build/app/outputs/apk/release/app-release.apk).
 
 ## Usage
 
