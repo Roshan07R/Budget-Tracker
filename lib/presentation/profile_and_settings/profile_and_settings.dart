@@ -20,11 +20,11 @@ class _ProfileAndSettingsState extends State<ProfileAndSettings> {
   // Mock user data
   final Map<String, dynamic> userData = {
     "name": "Roshni Sahu",
-    "email": "sarah.johnson@email.com",
+    "email": "roshni.sahu@email.com",
     "avatar":
         "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=400",
     "accountTier": "Premium",
-    "memberSince": "January 2023"
+    "memberSince": "January 2025"
   };
 
   // Mock linked accounts data
