@@ -19,7 +19,7 @@ class _ProfileAndSettingsState extends State<ProfileAndSettings> {
 
   // Mock user data
   final Map<String, dynamic> userData = {
-    "name": "Sarah Johnson",
+    "name": "Roshni Sahu",
     "email": "sarah.johnson@email.com",
     "avatar":
         "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=400",

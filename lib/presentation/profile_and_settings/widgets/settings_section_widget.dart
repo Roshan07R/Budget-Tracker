@@ -94,7 +94,7 @@ class SettingsSectionWidget extends StatelessWidget {
                   ),
               ],
             );
-          }).toList(),
+          }),
         ],
       ),
     );
